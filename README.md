@@ -18,10 +18,10 @@ Minhas Métricas:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 <a href="https://github.com/flavio16silva/github-readme-stats">
-  <img height=200em src="https://github-readme-stats.vercel.app/api?username=flavio16silva&theme=dracula" />
+  <img height=160em src="https://github-readme-stats.vercel.app/api?username=flavio16silva&theme=dracula" />
 </a>
 <a href="https://github.com/flavio16silva/convoychat">
-  <img height=200em src="https://github-readme-stats.vercel.app/api/top-langs?username=flavio16silva&layout=compact&langs_count=8&card_width=320&theme=dracula" />
+  <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs?username=flavio16silva&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
 <br>
 <br>
