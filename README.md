@@ -131,12 +131,6 @@ Software & Ferramnetas:
 <br>
 
 <div align="center">
- 
-![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/flavio16silva?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=wave&weeks=30&theme=blue)
-
-</div>
-
-<div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{flavio16silva}/count.svg" /></p> 
 <br></div>
