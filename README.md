@@ -1,7 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Flávio+Leite+da+Silva;I'm+42+years+old;I+am+from+Salvador,+BA;I+study+programming+frontend+and+backend;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 Olá, Mundo!! Bem vindo ao meu GitHub!🖐️
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
 
- - Sou o Flávio Silva, futuro programador!
+ - Sou um Futuro programador!
  - Vivo atualmente no Brasil! 
  - Amo demais programação!
  - Estudante, pesquisador e um felizardo em aprender programação.
@@ -124,4 +128,18 @@ Software & Ferramnetas:
  <img align="center" alt="Microsoft_Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>  
 
 </div>
-<br/>
+<br>
+
+<div align="center">
+ 
+![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/flavio16silva?chart=3dbar&gap=0.6&scale=2&gradient=true&flatten=0&animation=wave&weeks=30&theme=blue)
+
+</div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{flavio16silva}/count.svg" /></p> 
+<br></div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
