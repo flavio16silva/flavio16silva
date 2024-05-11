@@ -111,7 +111,7 @@ IDE´s que uso para programar e criar anotações:
 </div>
 <br>
 
-Software & Ferramnetas:
+Software & Ferramentas:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div style="flex-basis: 48%;">
@@ -127,6 +127,9 @@ Software & Ferramnetas:
 
  <img align="center" alt="Microsoft_Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>  
 
+<img align="center" alt="Microsoft_Azure" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>    
+
+<img align="center" alt="Microsoft_Azure" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </div>
 <br>
 
