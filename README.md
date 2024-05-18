@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Flávio+Leite+da+Silva;I'm+42+years+old;I+am+from+Salvador,+BA;I+study+programming+frontend+and+backend;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Flávio+Leite+da+Silva;I'm+43+years+old;I+am+from+Salvador,+BA;I+study+programming+frontend+and+backend;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 Olá, Mundo!! Bem vindo ao meu GitHub!🖐️
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
