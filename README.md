@@ -6,7 +6,7 @@ Olá, Mundo!! Bem vindo ao meu GitHub!🖐️
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
 
  - Futuro Programador!
- - Vivo atualmente no Brasil! 
+ - Vivo atualmente no Brasil!
  - Amo demais programação!
  - Estudante, pesquisador e um felizardo em aprender programação.
  - Atualmente desenvolvo as habilidades de criação, comunicação com clientes sobre projetos e estudo direcionado.
@@ -48,6 +48,8 @@ Tecnologias do meu cotidiano:
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  
+  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
 
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
