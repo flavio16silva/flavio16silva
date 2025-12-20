@@ -12,15 +12,12 @@ Olá, Mundo!! Bem vindo ao meu GitHub!🖐️
  - Atualmente desenvolvo as habilidades de criação, comunicação com clientes sobre projetos e estudo direcionado.
  - Como desenvolvedor em formação com 2 anos de experiência busco aprimorar minhas habilidades primeiramente no front-end.
  - Com formação em Administração com ênfase em Análise de Sistemas pela Fundação Visconde de Cairu-BA, iniciei meus primeiros passos na jornada da programação e suas ramificações.
- - Aprimorei meu conhecimento com uma pós-graduação em Redes de Computadores e Telecomunicações pela UNIFACS-BA, participando de projetos e atividades relacionados à infraestrutura, suporte e cabeamento.
- - Para me atualizar com as demandas do mercado, conquistei um MBA em Gestão de Projetos também pela UNIFACS-BA.
- - Atualmente, estou expandindo minha expertise na área de desenvolvimento, concentrando meus estudos e projetos no Front-End, utilizando tecnologias como HTML, CSS, JavaScript, Bootstrap, Angular e MySQL.
+ - Atualmente, estou expandindo minha expertise na área de desenvolvimento, concentrando meus estudos e projetos no Front-End, utilizando tecnologias como HTML, CSS, JavaScript, React, Bootstrap.
 
 Meus Contatos:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-leite-silva)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bidusila81@gmail.com)
 
 Minhas Métricas:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
