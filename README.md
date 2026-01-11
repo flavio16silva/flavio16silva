@@ -18,16 +18,6 @@ Meus Contatos:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-leite-silva)
 
-Minhas Métricas:
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-<p>
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavio16silva&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=flavio16silva&theme=radical&layout=compact&exclude_lang=java+r" />
-</a>
-</p>
-
-
 Projetos Iniciais Desenvolvidos:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
  - [Meu Portifolio](https://github.com/flavio16silva/PortfolioFlavio)
