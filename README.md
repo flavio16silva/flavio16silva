@@ -6,11 +6,10 @@ Olá, Mundo!! Bem vindo ao meu GitHub!🖐️
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
 
  - Futuro Programador!
- - Vivo atualmente no Brasil!
  - Amo demais programação!
- - Estudante, pesquisador e um felizardo em aprender programação.
+ - Estudante e um felizardo em aprender programação.
  - Atualmente desenvolvo as habilidades de criação, comunicação com clientes sobre projetos e estudo direcionado.
- - Como desenvolvedor em formação com 2 anos de experiência busco aprimorar minhas habilidades primeiramente no front-end.
+ - Como desenvolvedor em formação busco aprimorar minhas habilidades primeiramente no front-end.
  - Com formação em Administração com ênfase em Análise de Sistemas pela Fundação Visconde de Cairu-BA, iniciei meus primeiros passos na jornada da programação e suas ramificações.
  - Atualmente, estou expandindo minha expertise na área de desenvolvimento, concentrando meus estudos e projetos no Front-End, utilizando tecnologias como HTML, CSS, JavaScript, React, Bootstrap.
 
