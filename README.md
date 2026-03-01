@@ -2,16 +2,14 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Flávio+Leite+da+Silva;I'm+43+years+old;I+am+from+Salvador,+BA;I+study+programming+frontend+and+backend;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Olá, Mundo!! Bem vindo ao meu GitHub!🖐️
+Bem vindo ao meu GitHub!🖐️
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">      
 
- - Futuro Programador!
- - Amo demais programação!
- - Estudante e um felizardo em aprender programação.
+ - Futuro Desenvolvedor!
+ - Estudante, contante e persistente em aprender programação.
  - Atualmente desenvolvo as habilidades de criação, comunicação com clientes sobre projetos e estudo direcionado.
- - Como desenvolvedor em formação busco aprimorar minhas habilidades primeiramente no front-end.
- - Com formação em Administração com ênfase em Análise de Sistemas pela Fundação Visconde de Cairu-BA, iniciei meus primeiros passos na jornada da programação e suas ramificações.
- - Atualmente, estou expandindo minha expertise na área de desenvolvimento, concentrando meus estudos e projetos no Front-End, utilizando tecnologias como HTML, CSS, JavaScript, React, Bootstrap.
+ - Formado em Administração com ênfase em Análise de Sistemas, iniciei meus primeiros passos na jornada da programação e suas ramificações.
+ - Estou expandindo meu aprendizado concentrando meus estudos e projetos no Front-End, utilizando tecnologias como HTML, CSS, JavaScript, React, Bootstrap, TailwindCSS.
 
 Meus Contatos:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
@@ -37,24 +35,11 @@ Tecnologias do meu cotidiano:
   
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
 
-  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  
+  <img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-
-  <img align="center" alt="java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
-
-</div>
-<br>
-
-Tecnologias em processo de estudo:
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-<div style="flex-basis: 48%;">
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-
-  <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 </div>
 <br>
@@ -80,11 +65,11 @@ Plataforma de Trabalho:
 Navegadores para uso de testes e programar:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div style="flex-basis: 48%;">
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
+  <img align="center" alt="Firefox" src="https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white"/>
 
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
+  <img align="center" alt="Google" src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white"/>
 
-<img align="center" alt="angular" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/>  
+<img align="center" alt="Edge" src="https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white"/>  
 
 </div>
 <br>
@@ -92,11 +77,11 @@ Navegadores para uso de testes e programar:
 IDE´s que uso para programar e criar anotações:
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div style="flex-basis: 48%;">
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
 
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
+  <img align="center" alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"/>
 
- <img align="center" alt="angular" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>  
+ <img align="center" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>  
 
 </div>
 <br>
